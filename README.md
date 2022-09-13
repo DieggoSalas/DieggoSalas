@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DieggoSalas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DieggoSalas/DieggoSalas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋Hola soy Dieggo Salas
+👀Estoy interesado en el mundo de la Tecnología
+🌱Actualmente estoy aprendiendo programación(c# .NET) de forma autodidacta, inclinado mas para el lado backend
+💞️Busco insertarme en el mundo laboral, aprender y adquirir la mayor experiencia
+📫Como llegar a mi: carlosdiegosalas@gmail.com
